@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RozaBabayan
-- 👀 I’m interested in I am interested in gaining experience in software development and software engineering.
+- 👀 I’m interested in gaining experience in software development and software engineering.
 - 🌱 I’m currently a senior at USC studying Computer Science.
 - 📫 How to reach me https://www.linkedin.com/in/rozababayan/ 
 
